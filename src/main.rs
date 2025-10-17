@@ -9,7 +9,7 @@ fn main() {
     App::new()
         .add_plugins(DefaultPlugins.set(WindowPlugin {
             primary_window: Some(Window {
-                title: "Advanced Boids Flocking Simulation - Production Ready".into(),
+                title: "Advanced Boids Flocking Simulation".into(),
                 resolution: (WINDOW_WIDTH, WINDOW_HEIGHT).into(),
                 ..default()
             }),
