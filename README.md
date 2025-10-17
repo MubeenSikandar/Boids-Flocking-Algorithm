@@ -419,12 +419,6 @@ Contributions welcome! Areas of interest:
 
 ---
 
-## 📄 License
-
-[Your License Here]
-
----
-
 ## 🙏 Attribution
 
 Built with [Bevy Engine](https://bevyengine.org) and Rust.
